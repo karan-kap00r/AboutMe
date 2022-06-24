@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="Name">Karan Kapoor</string>
+    <string name="avatar">Avatar</string>
+    <string name="yellow_star">YellowStar</string>
+
+    <string name="bio">1. Enthusiastic Software Developer and Competitive Programmer always seeking to enhance my skills.\n2. Proficient in C++, C and Java.\n3. Passionate about implementing and launching new projects in Development Field.\n4. Ability to learn new softwares and technologies quickly.\n5. Capability to work in teams by providing valuable support.\n6. I am very flexible to change in environment.\n7. After getting comfortable with Flutter Development, I am shifting on Android Development/Kotlin.\n</string>
+    <string name="What_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
